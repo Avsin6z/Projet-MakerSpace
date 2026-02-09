@@ -1,15 +1,21 @@
 ---
-title: Home
 layout: home
+title: Accueil
+nav_order: 1
 ---
 
-# 🎨 Machines That Draws
-**Projet réalisé par : Pierre-Emilien, Djaher et Avsin.**
+# 🤖 Projet : Machines That Draws
 
-Bienvenue sur notre documentation technique. Ce projet consiste à créer une machine automatisée capable de dessiner des motifs précis.
+Bienvenue sur le site de documentation de notre projet de robotique réalisé au **MakerSpace**.
 
-### Sommaire de la documentation
-Vous trouverez dans le menu latéral :
-1. La phase de **Conception** (Plans et 3D).
-2. La phase de **Fabrication** (Impression 3D et montage).
-3. Le **Résultat final** et les tests.
+## Notre Mission
+L'objectif de ce projet est de concevoir une machine capable de réaliser des dessins automatisés en utilisant la technologie Arduino et des pièces modélisées en 3D.
+
+## L'Équipe
+* **Pierre**
+* **Emilien**
+* **Djaher**
+* **Avsin**
+
+---
+*Consultez la section [Conception](./docs/conception.md) dans le menu pour voir les détails techniques.*
