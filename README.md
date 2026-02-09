@@ -10,7 +10,7 @@ La documentation complète, structurée avec Jekyll et le thème Just the Docs, 
 
 ## 👥 L'Équipe
 * **Pierre
-* **Emilien
+*   Emilien**
 * **Djaher**
 * **Avsin**
 
